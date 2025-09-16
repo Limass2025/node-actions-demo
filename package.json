@@ -1,0 +1,24 @@
+{
+  "name": "actions-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "build": "echo 'Building project...' && mkdir -p dist && cp *.js dist/",
+  "test": "jest"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limass2025/node-actions-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Limass2025/node-actions-demo/issues"
+  },
+  "homepage": "https://github.com/Limass2025/node-actions-demo#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
